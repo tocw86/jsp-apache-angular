@@ -28,4 +28,4 @@ chmod +x restart.sh
 ```
 
 ### Working
-After changing angular code you must rebuild docker image or run cathalina.sh restart from docker image
+After changing angular code you must run npm run build and restart.sh
