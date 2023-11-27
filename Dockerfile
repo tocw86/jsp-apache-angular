@@ -1,5 +1,4 @@
 FROM tomcat:latest
-LABEL maintainer="tomasz@softwareyoga.com"
 
 COPY ./webapp /usr/local/tomcat/webapps/webapp
 
